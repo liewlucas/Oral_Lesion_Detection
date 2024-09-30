@@ -1,4 +1,4 @@
-**Oral Lesion Detection Algorithm**
+<h1>Oral Lesion Detection Algorithm</h1>
 
 
 This repository contains the implementation of an Oral Lesion Detection Algorithm developed in collaboration with Newcastle University. The goal of this project is to expedite preliminary oral cancer diagnosis in rural areas with limited access to healthcare facilities by utilizing advanced machine learning techniques for oral lesion detection.
